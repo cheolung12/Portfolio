@@ -31,12 +31,11 @@ export default function Contact() {
     >
       <SectionHeading>Contact me</SectionHeading>
 
-      <p className="text-gray-700 -mt-6 dark:text-white/80">
-        Please contact me directly at{" "}
-        <a className="underline" href="mailto:cheolung97@gmail.com">
+      <p className="text-gray-700 -mt-4 dark:text-white/80">
+      <a className="underline" href="mailto:cheolung97@gmail.com">
           cheolung97@gmail.com
         </a>{" "}
-        or through this form.
+        또는 아래 양식을 통해 메일을 보내주세요. 
       </p>
 
       <form
@@ -63,7 +62,7 @@ export default function Contact() {
         <textarea
           className="h-52 my-3 rounded-lg borderBlack p-4 dark:bg-white dark:bg-opacity-80 dark:focus:bg-opacity-100 transition-all dark:outline-none"
           name="message"
-          placeholder="Your message"
+          placeholder="Message"
           required
           maxLength={5000}
         />
