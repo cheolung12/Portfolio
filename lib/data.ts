@@ -116,7 +116,7 @@ export const projectsData = [
       'resend',
     ],
     imageUrl: portfolioImg,
-    demoLink: '',
+    demoLink: 'https://hongcheolung.vercel.app/',
     githubLink: 'https://github.com/cheolung12/Portfolio',
     postLink: 'https://cu1210.tistory.com/12',
   },
