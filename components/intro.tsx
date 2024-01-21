@@ -9,9 +9,6 @@ import { RiNotionFill } from 'react-icons/ri';
 import { IoOpenOutline } from 'react-icons/io5';
 import {
   FaGithubSquare,
-  FaUser,
-  FaBirthdayCake,
-  FaUserGraduate,
 } from 'react-icons/fa';
 import { useSectionInView } from '@/lib/hooks';
 import { useActiveSectionContext } from '@/context/active-section-context';
