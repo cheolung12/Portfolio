@@ -71,7 +71,7 @@ export default function Intro() {
           개발 중 더 나은 UI/UX에 대하여 끊임없이 고민하며,
         </span>
         <span className='text-base sm:text-lg'>
-          지속적인 성장을 위해 지식을 기록하고 경험들을 회고합니다.
+          언제든 새로운 지식을 받아들일 준비가 되어 있습니다.
         </span>
       </motion.div>
 
