@@ -68,10 +68,10 @@ export default function Intro() {
           사용자의 입장을 먼저 생각하는 주니어 개발자 입니다.
         </span>
         <span className='text-base sm:text-lg'>
-          개발 중 더 나은 UI/UX에 대하여 끊임없이 고민하며,
+          개발 중 더 나은 UI/UX에 대하여 끊임없이 고민합니다.
         </span>
         <span className='text-base sm:text-lg'>
-          언제든 새로운 지식을 받아들일 준비가 되어 있습니다.
+        지속적인 성장을 추구하며, 새로운 지식을 받아들일 준비가 되어 있습니다.
         </span>
       </motion.div>
 
